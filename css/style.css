@@ -96,6 +96,11 @@ img{
     text-align: center;
 }
 
+/* MENU
+----------------------------- */
+.cover-menu {
+    background-image: url(../images/cover-menu-s.webp);
+}
 /*見出し*/
 .font-english {
     font-family: 'Philosopher', sans-serif;
